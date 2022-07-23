@@ -102,16 +102,6 @@ class ProdOverview extends React.Component {
     })
   }
 
-  // addToTheCart = () => {
-  //   console.log('clicked')
-  //   if (this.state.productSpecs !== undefined && this.state.selectedSize !== '' && this.state.selectedSize !== 'Select Size' && this.state.selectedQuantity !== '' && this.state.selectedQuantity !== '-') {
-  //     this.setState({
-  //       addToCartButtonClick: true,
-  //     })
-  //     return <p>Item: {this.state.productSpecs.name} Size: {this.state.selectedSize} Quantity: {this.state.selectedQuantity}</p>
-  //   }
-  // }
-
   render() {
     return (
       <React.Fragment>
