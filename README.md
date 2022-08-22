@@ -96,5 +96,5 @@ To get a local copy up and running follow these simple steps:
 
 * Shirley Nguyen - Related Products
   * https://github.com/shnguyen8
-  * https://www.linkedin.com/in/shirley-nguyen8
+  * https://www.linkedin.com/in/shirley-h-nguyen/
 
